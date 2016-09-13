@@ -1,8 +1,9 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
+import Cocoa
 
 var str = "Hello, playground"
-var newStr = "Buck"
 str += "!"
+var name = "Buck"
 print(str)
+print(name)
