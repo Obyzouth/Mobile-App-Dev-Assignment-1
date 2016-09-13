@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 
-import UIKit
+import Cocoa
 
 let numberOfStopLights: Int = 4
 var population: Int
